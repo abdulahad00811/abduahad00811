@@ -43,4 +43,13 @@ https://github.com/abdulahad00811
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahad00811&layout=compact&theme=tokyonight)
 
+
+
+
+## 🌐 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/abdulahad00811
+- 💻 GitHub: https://github.com/abdulahad00811
+- 📧 Email: abdulahad00811@gmail.com
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=abdulahad00811&theme=tokyonight)
