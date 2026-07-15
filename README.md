@@ -31,6 +31,14 @@ https://github.com/abdulahad00811
 
 ## 📊 GitHub Stats
 
+
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulahad00811&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahad00811&layout=compact&theme=tokyonight)
