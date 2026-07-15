@@ -27,3 +27,12 @@ I am passionate about building modern and responsive web applications using HTML
 
 GitHub:
 https://github.com/abdulahad00811
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulahad00811&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahad00811&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abdulahad00811&theme=tokyonight)
